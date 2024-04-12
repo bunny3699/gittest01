@@ -1,4 +1,4 @@
 # gittest01
 GitTest Repo
 <br>
-auth: bunny
+Auth: bunny
